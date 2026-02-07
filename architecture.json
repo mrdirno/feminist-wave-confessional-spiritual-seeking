@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_confessional_spiritual_seeking",
+  "title": "The Blueprint in Your Bones",
+  "tagline": "A woman's journey from shaving her legs to finding her soul, tracing divinity through the mundane rituals of becoming.",
+  "target_words": 70000,
+  "actual_words": 70414,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Sacred in the Mundane",
+    "Femininity as a Spiritual Project",
+    "The Fracture Between Theory and Experience",
+    "Seeking a God Beyond Patriarchy"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Avocado Tub Epiphany",
+      "words": 2934
+    },
+    {
+      "ch": 2,
+      "title": "The Topography of a Battlefield",
+      "words": 2934
+    },
+    {
+      "ch": 3,
+      "title": "The Paneled Basement Ritual",
+      "words": 2934
+    },
+    {
+      "ch": 4,
+      "title": "Not Like Other Girls",
+      "words": 2934
+    },
+    {
+      "ch": 5,
+      "title": "The Secular Convent",
+      "words": 2934
+    },
+    {
+      "ch": 6,
+      "title": "The Personal is Political",
+      "words": 2934
+    },
+    {
+      "ch": 7,
+      "title": "Love as a Revolutionary Act",
+      "words": 2934
+    },
+    {
+      "ch": 8,
+      "title": "The Question in the Dark",
+      "words": 2934
+    },
+    {
+      "ch": 9,
+      "title": "The Underground God",
+      "words": 2934
+    },
+    {
+      "ch": 10,
+      "title": "Cracks in the Theory",
+      "words": 2934
+    },
+    {
+      "ch": 11,
+      "title": "Seeking a New Language",
+      "words": 2934
+    },
+    {
+      "ch": 12,
+      "title": "The Mystic in the Mirror",
+      "words": 2934
+    },
+    {
+      "ch": 13,
+      "title": "Return to the Body",
+      "words": 2934
+    },
+    {
+      "ch": 14,
+      "title": "Maternal Ocean, Paternal Sky",
+      "words": 2934
+    },
+    {
+      "ch": 15,
+      "title": "The Exhausted War",
+      "words": 2934
+    },
+    {
+      "ch": 16,
+      "title": "Rituals of Unbecoming",
+      "words": 2934
+    },
+    {
+      "ch": 17,
+      "title": "The Whisper in the Marrow",
+      "words": 2934
+    },
+    {
+      "ch": 18,
+      "title": "Confronting the Cage",
+      "words": 2934
+    },
+    {
+      "ch": 19,
+      "title": "A Different Kind of Map",
+      "words": 2934
+    },
+    {
+      "ch": 20,
+      "title": "The Quality of Attention",
+      "words": 2934
+    },
+    {
+      "ch": 21,
+      "title": "Synthesis",
+      "words": 2934
+    },
+    {
+      "ch": 22,
+      "title": "The Mountain of Your Skin",
+      "words": 2934
+    },
+    {
+      "ch": 23,
+      "title": "The Pact Remembered",
+      "words": 2934
+    },
+    {
+      "ch": 24,
+      "title": "A New Becoming",
+      "words": 2938
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a mundane, traditionally 'feminine' ritual (like applying makeup, cooking a meal, choosing an outfit) becomes a site of profound spiritual encounter.",
+      "Create a dialogue between the protagonist and her younger self at the moment of the avocado tub epiphany. What wisdom does the younger version hold that the older one has forgotten?",
+      "Imagine the protagonist encountering a spiritual teacher or guide who is not a traditional guru, but perhaps an elderly woman, a queer artist, or a non-human entity. Describe their first lesson.",
+      "Write a 'confessional' chapter from the perspective of another character in the book (Sam, the mother, Jason) exploring their own parallel, unseen spiritual seeking."
+    ],
+    "technical": [
+      "Build an interactive 'Ritual Map' that visualizes the protagonist's journey, plotting key spiritual moments (like the bathroom, the basement) against feminist theory concepts she encounters, showing the tension and synthesis.",
+      "Create a text generator that produces 'Mundane Epiphanies'—short, poetic prose pieces where a simple, everyday object or action is described in a way that reveals its hidden spiritual dimension."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Maggie Nelson (for autotheory & blending personal confession with intellectual rigor)",
+      "Annie Dillard (for finding the transcendent in precise, physical detail)",
+      "Audre Lorde (for the power of the erotic as spiritual and the insistence that personal feeling is political data)",
+      "Teresa of Ávila (for mapping the interior castle of a woman's spiritual experience outside institutional sanction)"
+    ]
+  },
+  "cover_prompt": "A woman's hands, one holding a simple razor and the other gently cradling her own shin, the act suspended in a moment of profound contemplation, [Detailed Scene & Context: in a sun-drenched, ordinary bathroom where steam rises from a sink and light catches on droplets on white tiles, with a forgotten cup of tea and an open, well-worn journal on the edge of the tub, the mundane scene feels charged with quiet revelation, a blueprint of veins visible beneath the skin on her wrist], [Artistic Style & Medium: in the atmospheric, textural style of Remedios Varo, blending mystical surrealism with precise, figurative detail, rendered in delicate ink washes and layered oil glazes that reveal hidden patterns], [Composition & Camera: book cover framing, a centered and intimate composition with a slight low-angle view that elevates the subject, focusing on the hands and lower face in reflection, creating a sense of sacred ritual], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single strong beam of morning light cutting through the steam, illuminating the razor and skin, within a palette of milky blues, bone white, terracotta, and deep indigo shadows with a single streak of gold leaf tracing a vein-like pattern on the wall], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
