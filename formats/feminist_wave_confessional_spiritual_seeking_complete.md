@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The first time I saw God, I was nine years old and trying to shave my legs with my mother’s Lady Bic in a bathroom that smelled of mildew and Jean Naté. The tub was avocado green, a great chipped beast of a thing, and I had one foot propped on its cold lip, my knee a sharp, bony island. The radio on the wicker hamper was tuned to the oldies station, Diana Ross pleading *Ain’t No Mountain High Enough* through a haze of static. I wasn’t supposed to be doing this. My legs, according to my mother, were still the legs of a child, covered in fine, invisible blonde down. But I had seen the older girls at the pool, their limbs slick and bare as seals, and I understood, with a clarity that felt like a stone in my gut, that hairlessness was not a state of being but a project. A becoming.
@@ -65,6 +67,8 @@ Tears came. Hot, silent, embarrassing. They weren’t tears of sadness or joy, b
 I didn’t find God that day. I found the thread. The one that started in an avocado bathroom. The one I’d been dropping, picking up, and tripping over my whole life. I walked out into the city twilight, the streetlights buzzing to life. My phone buzzed in my pocket—a text from my boyfriend about dinner. The world snapped back into its sharp, demanding focus.
 
 But something was different. The canyon was still there. But I was no longer on one side, shouting. I was the canyon itself. And deep in its dark, quiet heart, something was beginning, terribly, to grow.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -187,6 +191,8 @@ I looked at the words on the screen. The expectation in them. The shared life vi
 I didn’t text back right away. I rolled down the window, letting the cold, traffic-scented air blast in. I turned off the podcast I usually listened to. I drove in silence, listening to the engine, the wind, the sound of my own breath.
 
 Noticing.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
