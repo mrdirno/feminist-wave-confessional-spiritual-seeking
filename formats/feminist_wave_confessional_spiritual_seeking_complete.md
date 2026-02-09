@@ -2,7 +2,8 @@
 
 ## **CHAPTER 1**
 
-The first time I saw God, I was nine years old and trying to shave my legs with my mother’s Lady Bic in a bathroom that smelled of mildew and Jean Naté. The tub was avocado green, a great chipped beast of a thing, and I had one foot propped on its cold lip, my knee a sharp, bony island. The radio on the wicker hamper was tuned to the oldies station, Diana Ross pleading *Ain’t No Mountain High Enough* through a haze of static. I wasn’t supposed to be doing this. My legs, according to my mother, were still the legs of a child, covered in fine, invisible blonde down. But I had seen the older girls at the pool, their limbs slick and bare as seals, and I understood, with a clarity that felt like a stone in my gut, that hairlessness was not a state of being but a project. A becoming.
+Margo’s god was a man, of course. She found him on Tuesday afternoons in a sun-bleached church basement, his voice a dry rustle of pages, his answers always a question turned back on her. Her own voice, when she tried to use it here, came out as air.
+
 
 I sawed at my shin, dry, no cream, the plastic razor tugging and catching. A red bead welled up, a perfect, shocking ruby. I watched it gather, a tiny planet of pain. And then, a shift. Not a sound, not a light. A pressure change, as if the bathroom itself took a deep, silent breath. The air went thick, honeyed. The mildew smell vanished, replaced by something clean and vast, like ozone after lightning, or the inside of a glacier. Diana Ross didn’t stop singing, but her voice became the only sound in a universe that had suddenly focused to a single, humming point: me, the blood, the avocado tub.
 
